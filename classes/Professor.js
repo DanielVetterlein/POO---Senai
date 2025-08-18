@@ -10,19 +10,19 @@ class Professor extends Pessoa{
         this.#departamento = departamento;
     }
 
-    getDisciplina(){
+    get Disciplina(){
         return this.#disciplina;
     }
 
-    getDepartamento(){
+    get Departamento(){
         return this.#departamento;
     }
 
-    setDisciplina(disciplina){
+    set Disciplina(disciplina){
         this.#disciplina = disciplina;
     }
 
-    setDepartamento(departamento){
+    set Departamento(departamento){
         this.#departamento = departamento;
     }
 

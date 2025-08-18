@@ -4,9 +4,9 @@ let professor1 = new Professor("Marco Piloto", 69, "Programação", "Departament
 
 
 
-console.log(professor1.getDisciplina());
+console.log(professor1.Disciplina);
 
-console.log(professor1.getDepartamento());
+console.log(professor1.Departamento);
 
 console.log(professor1.darAula());
 
